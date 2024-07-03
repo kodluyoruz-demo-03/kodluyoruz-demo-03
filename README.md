@@ -1,0 +1,3 @@
+- Ben **Bilgehan Zeki Özaytaç**
+- Kodluyoruzda Teknik Gönüllüyum
+- Yazılım ve Sistem Uzmanıyım
